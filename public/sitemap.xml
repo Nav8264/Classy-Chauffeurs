@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
+xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" 
+xmlns:xhtml="http://www.w3.org/1999/xhtml" 
+xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" 
+xmlns:video="http://www.google.com/schemas/sitemap-video/1.1"
+>
+    
+
+    <url>
+    <loc>
+    https://blackgrandeurchauffeur.com/</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://blackgrandeurchauffeur.com/"/>
+        <lastmod>2023-07-20T05:09:45.907Z</lastmod>
+            <changefreq>weekly</changefreq>
+                <priority>1.0</priority>
+    </url>
+
+    <url>
+    <loc>
+    https://blackgrandeurchauffeur.com/about</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://blackgrandeurchauffeur.com/about"/>
+        <lastmod>2023-07-20T05:09:45.907Z</lastmod>
+            <changefreq>weekly</changefreq>
+                <priority>1.0</priority>
+    </url>
+
+    <url>
+    <loc>
+    https://blackgrandeurchauffeur.com/blog</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://blackgrandeurchauffeur.com/blog"/>
+        <lastmod>2023-07-20T05:09:45.907Z</lastmod>
+            <changefreq>weekly</changefreq>
+                <priority>1.0</priority>
+    </url>
+
+    <url>
+    <loc>
+    https://blackgrandeurchauffeur.com/services</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://blackgrandeurchauffeur.com/services"/>
+        <lastmod>2023-07-20T05:09:45.907Z</lastmod>
+            <changefreq>weekly</changefreq>
+                <priority>1.0</priority>
+    </url>
+
+    <url>
+    <loc>
+    https://blackgrandeurchauffeur.com/blog/:blogId</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://blackgrandeurchauffeur.com/blog/:blogId"/>
+        <lastmod>2023-07-20T05:09:45.907Z</lastmod>
+            <changefreq>weekly</changefreq>
+                <priority>1.0</priority>
+    </url>
+
+    <url>
+    <loc>
+    https://blackgrandeurchauffeur.com/ourfleet</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://blackgrandeurchauffeur.com/ourfleet"/>
+        <lastmod>2023-07-20T05:09:45.907Z</lastmod>
+            <changefreq>weekly</changefreq>
+                <priority>1.0</priority>
+    </url>
+
+    <url>
+    <loc>
+    https://blackgrandeurchauffeur.com/contact</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://blackgrandeurchauffeur.com/contact"/>
+        <lastmod>2023-07-20T05:09:45.907Z</lastmod>
+            <changefreq>weekly</changefreq>
+                <priority>1.0</priority>
+    </url>
+
+    <url>
+    <loc>
+    https://blackgrandeurchauffeur.com/australia</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://blackgrandeurchauffeur.com/australia"/>
+        <lastmod>2023-07-20T05:09:45.907Z</lastmod>
+            <changefreq>weekly</changefreq>
+                <priority>1.0</priority>
+    </url>
+
+    <url>
+    <loc>
+    https://blackgrandeurchauffeur.com/newzealand</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://blackgrandeurchauffeur.com/newzealand"/>
+        <lastmod>2023-07-20T05:09:45.907Z</lastmod>
+            <changefreq>weekly</changefreq>
+                <priority>1.0</priority>
+    </url>
+
+    <url>
+    <loc>
+    https://blackgrandeurchauffeur.com/booking</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://blackgrandeurchauffeur.com/booking"/>
+        <lastmod>2023-07-20T05:09:45.907Z</lastmod>
+            <changefreq>weekly</changefreq>
+                <priority>1.0</priority>
+    </url>
+
+    <url>
+    <loc>
+    https://blackgrandeurchauffeur.com/signup</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://blackgrandeurchauffeur.com/signup"/>
+        <lastmod>2023-07-20T05:09:45.907Z</lastmod>
+            <changefreq>weekly</changefreq>
+                <priority>1.0</priority>
+    </url>
+
+    <url>
+    <loc>
+    https://blackgrandeurchauffeur.com/continue-guest</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://blackgrandeurchauffeur.com/continue-guest"/>
+        <lastmod>2023-07-20T05:09:45.907Z</lastmod>
+            <changefreq>weekly</changefreq>
+                <priority>1.0</priority>
+    </url>
+
+    <url>
+    <loc>
+    https://blackgrandeurchauffeur.com/login</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://blackgrandeurchauffeur.com/login"/>
+        <lastmod>2023-07-20T05:09:45.907Z</lastmod>
+            <changefreq>weekly</changefreq>
+                <priority>1.0</priority>
+    </url>
+
+    <url>
+    <loc>
+    https://blackgrandeurchauffeur.com/ourlocation</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://blackgrandeurchauffeur.com/ourlocation"/>
+        <lastmod>2023-07-20T05:09:45.907Z</lastmod>
+            <changefreq>weekly</changefreq>
+                <priority>1.0</priority>
+    </url>
+
+    <url>
+    <loc>
+    https://blackgrandeurchauffeur.com/privacypolicy</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://blackgrandeurchauffeur.com/privacypolicy"/>
+        <lastmod>2023-07-20T05:09:45.907Z</lastmod>
+            <changefreq>weekly</changefreq>
+                <priority>1.0</priority>
+    </url>
+
+    <url>
+    <loc>
+    https://blackgrandeurchauffeur.com/termsandcondition</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://blackgrandeurchauffeur.com/termsandcondition"/>
+        <lastmod>2023-07-20T05:09:45.907Z</lastmod>
+            <changefreq>weekly</changefreq>
+                <priority>1.0</priority>
+    </url>
+
+    <url>
+    <loc>
+    https://blackgrandeurchauffeur.com/vehicle</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://blackgrandeurchauffeur.com/vehicle"/>
+        <lastmod>2023-07-20T05:09:45.907Z</lastmod>
+            <changefreq>weekly</changefreq>
+                <priority>1.0</priority>
+    </url>
+
+    <url>
+    <loc>
+    https://blackgrandeurchauffeur.com/feedback</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://blackgrandeurchauffeur.com/feedback"/>
+        <lastmod>2023-07-20T05:09:45.907Z</lastmod>
+            <changefreq>weekly</changefreq>
+                <priority>1.0</priority>
+    </url>
+
+    <url>
+    <loc>
+    https://blackgrandeurchauffeur.com/forgotpassword/forgotemail</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://blackgrandeurchauffeur.com/forgotpassword/forgotemail"/>
+        <lastmod>2023-07-20T05:09:45.907Z</lastmod>
+            <changefreq>weekly</changefreq>
+                <priority>1.0</priority>
+    </url>
+
+    <url>
+    <loc>
+    https://blackgrandeurchauffeur.com/forgotpassword/forgotemail/:email</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://blackgrandeurchauffeur.com/forgotpassword/forgotemail/:email"/>
+        <lastmod>2023-07-20T05:09:45.907Z</lastmod>
+            <changefreq>weekly</changefreq>
+                <priority>1.0</priority>
+    </url>
+
+    <url>
+    <loc>
+    https://blackgrandeurchauffeur.com/forgotpassword/forgotemail/otp/:email</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://blackgrandeurchauffeur.com/forgotpassword/forgotemail/otp/:email"/>
+        <lastmod>2023-07-20T05:09:45.907Z</lastmod>
+            <changefreq>weekly</changefreq>
+                <priority>1.0</priority>
+    </url>
+
+    <url>
+    <loc>
+    https://blackgrandeurchauffeur.com/device</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://blackgrandeurchauffeur.com/device"/>
+        <lastmod>2023-07-20T05:09:45.907Z</lastmod>
+            <changefreq>weekly</changefreq>
+                <priority>1.0</priority>
+    </url>
+
+    <url>
+    <loc>
+    https://blackgrandeurchauffeur.com/booking/myrides</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://blackgrandeurchauffeur.com/booking/myrides"/>
+        <lastmod>2023-07-20T05:09:45.907Z</lastmod>
+            <changefreq>weekly</changefreq>
+                <priority>1.0</priority>
+    </url>
+
+    <url>
+    <loc>
+    https://blackgrandeurchauffeur.com/loader</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://blackgrandeurchauffeur.com/loader"/>
+        <lastmod>2023-07-20T05:09:45.907Z</lastmod>
+            <changefreq>weekly</changefreq>
+                <priority>1.0</priority>
+    </url>
+
+    <url>
+    <loc>
+    https://blackgrandeurchauffeur.com/booking/loading/:vehicle</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://blackgrandeurchauffeur.com/booking/loading/:vehicle"/>
+        <lastmod>2023-07-20T05:09:45.907Z</lastmod>
+            <changefreq>weekly</changefreq>
+                <priority>1.0</priority>
+    </url>
+
+    <url>
+    <loc>
+    https://blackgrandeurchauffeur.com/otp</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://blackgrandeurchauffeur.com/otp"/>
+        <lastmod>2023-07-20T05:09:45.907Z</lastmod>
+            <changefreq>weekly</changefreq>
+                <priority>1.0</priority>
+    </url>
+
+    <url>
+    <loc>
+    https://blackgrandeurchauffeur.com/updateride/:id</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://blackgrandeurchauffeur.com/updateride/:id"/>
+        <lastmod>2023-07-20T05:09:45.907Z</lastmod>
+            <changefreq>weekly</changefreq>
+                <priority>1.0</priority>
+    </url>
+
+    <url>
+    <loc>
+    https://blackgrandeurchauffeur.com/checkout</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://blackgrandeurchauffeur.com/checkout"/>
+        <lastmod>2023-07-20T05:09:45.907Z</lastmod>
+            <changefreq>weekly</changefreq>
+                <priority>1.0</priority>
+</url>
+</urlset>
